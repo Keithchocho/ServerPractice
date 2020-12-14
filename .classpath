@@ -6,7 +6,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="F:/app/admin/virtual/product/12.2.0/dbhome_1/jdbc/lib/ojdbc8_g.jar">
+	<classpathentry kind="lib" path="C:/Users/baaq/Downloads/ojdbc8_g.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
@@ -22,10 +22,11 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
-			<attribute name="owner.project.facets" value="java"/>
+			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/baaq/Downloads/mongo-java-driver-3.12.7.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
